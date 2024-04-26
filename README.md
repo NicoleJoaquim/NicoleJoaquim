@@ -1,6 +1,6 @@
 #     Empresas habilitadas ao Transporte Rodoviário Internacional de Cargas ( TRI ) 🚚
 
-Trabalho feito na matéria de Informática Aplica à Logística, a fim de ter conhecimentos sobre visualizações no Power BI
+Trabalho feito na matéria de Informática Aplicada à Logística, a fim de ter conhecimentos sobre visualizações no Power BI
 
 # Objetivo do Projeto
 > Criar um repositório e demonstrar três visualizações no Power BI
