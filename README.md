@@ -1,4 +1,4 @@
-#     Empresas habilitadas ao Transporte Rodoviário Internacional de Cargas ( TRI ) 🚚
+#     Empresas habilitadas ao Transporte Rodoviário Internacional de Cargas ( TRIC ) 🚚
 
 Trabalho feito na matéria de Informática Aplicada à Logística, a fim de ter conhecimentos sobre visualizações no Power BI
 
