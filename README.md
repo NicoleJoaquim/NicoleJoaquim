@@ -4,9 +4,12 @@ Criar um aplicativo para aprendizado no Power Apps.
 
 
 ### Tecnologias Utilizadas
+
  > Microsoft Power Apps
- > Excel
- > GitHub
+ 
+> Excel
+> 
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
