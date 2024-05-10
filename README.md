@@ -1,13 +1,11 @@
 #    Aplicativo Estagiários FNC 
 
-Trabalho feito na matéria de Informática Aplicada à Logística, a fim de ter conhecimentos sobre visualizações no Power BI
+Criar um aplicativo para aprendizado no Power Apps.
 
-# Objetivo do Projeto
-> Criar um repositório e demonstrar três visualizações no Power BI
 
 ### Tecnologias Utilizadas
- > Microsoft Power Bi
-
+ > Microsoft Power Apps
+ > Excel
  > GitHub
 
 # Equipe
@@ -20,3 +18,5 @@ Trabalho feito na matéria de Informática Aplicada à Logística, a fim de ter 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 25/04/2024 a 26/04/2024| concluído| [Ver Relatório](https://drive.google.com/file/d/1kPdtbDLHvU8VxvA2pGEHq9_f9ANoFOko/view?usp=drive_link) | 
+
+
