@@ -1,5 +1,8 @@
 #    Aplicativo Estagiários FNC 📚
 
+![Capturar](https://github.com/NicoleJoaquim/NicoleJoaquim/assets/163482917/4f4239f3-82d0-41a4-a22a-13748dd683f9)
+
+
 Criar um aplicativo para aprendizado no Power Apps.
 
 
